@@ -1,0 +1,31 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 568px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 16px auto 0 24px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 44px auto 0 25px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 317px;
+  margin: 13px 33px 60px 16px;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-btn-1 {
+  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-form-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
